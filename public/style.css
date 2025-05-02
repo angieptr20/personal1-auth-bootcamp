@@ -1,0 +1,13 @@
+body{
+  padding-top:80px;
+  word-wrap:break-word;
+}
+img{
+  height: 200px;
+}
+
+.fa-trash::before{
+  content: "\f014";
+  /* -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale */
+}
